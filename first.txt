@@ -1,2 +1,3 @@
 Hello world!
 print("Python")
+print("Python is the best")
